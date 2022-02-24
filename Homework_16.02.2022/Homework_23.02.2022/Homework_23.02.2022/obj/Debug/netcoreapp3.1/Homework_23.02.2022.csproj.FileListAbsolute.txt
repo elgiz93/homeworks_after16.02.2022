@@ -1,0 +1,14 @@
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\bin\Debug\netcoreapp3.1\Homework_23.02.2022.exe
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\bin\Debug\netcoreapp3.1\Homework_23.02.2022.deps.json
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\bin\Debug\netcoreapp3.1\Homework_23.02.2022.runtimeconfig.json
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\bin\Debug\netcoreapp3.1\Homework_23.02.2022.runtimeconfig.dev.json
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\bin\Debug\netcoreapp3.1\Homework_23.02.2022.dll
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\bin\Debug\netcoreapp3.1\Homework_23.02.2022.pdb
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.csproj.AssemblyReference.cache
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.AssemblyInfoInputs.cache
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.AssemblyInfo.cs
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.csproj.CoreCompileInputs.cache
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.dll
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.pdb
+C:\Users\elgiz\Desktop\CODE\Homework_16.02.2022\Homework_23.02.2022\Homework_23.02.2022\obj\Debug\netcoreapp3.1\Homework_23.02.2022.genruntimeconfig.cache
