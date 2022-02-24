@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_16.02.2022\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj": {}
+    "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_16.02.2022\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj": {
+    "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_16.02.2022\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj",
+        "projectUniqueName": "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj",
         "projectName": "Homework_23.02.2022",
-        "projectPath": "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_16.02.2022\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj",
+        "projectPath": "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_23.02.2022\\Homework_23.02.2022\\Homework_23.02.2022.csproj",
         "packagesPath": "C:\\Users\\elgiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_16.02.2022\\Homework_23.02.2022\\Homework_23.02.2022\\obj\\",
+        "outputPath": "C:\\Users\\elgiz\\Desktop\\CODE\\Homework_23.02.2022\\Homework_23.02.2022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
